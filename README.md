@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
-- 🌱 I’m currently learning **Java, DOM manipulation**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 - 📫 How to reach me **prajwalrajbhandari8@gmail.com**
 
