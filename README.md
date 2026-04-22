@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I seem shy and introvert until you get to know me well.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://linkedin.com/in/prajwal-rajbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal-rajbhandari" height="30" width="40" /></a>
 <a href="https://instagram.com/_lawjarp_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lawjarp_30" height="30" width="40" /></a>
 </p>
