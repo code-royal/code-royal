@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajwal Rajbhandari</h1>
 <h3 align="center">A passionate tech enthusiast student from Nepal.</h3>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on **my college Java programming coursework**
 
 - 🌱 I’m currently learning **Java DSA**
 
