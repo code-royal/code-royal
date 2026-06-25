@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My Portfolio Website<br>🌱 I’m currently learning React JS
+🔭 I’m currently working on My Portfolio Website<br>🌱 I’m currently learning Figma
 
 
 ## 🌐 Socials:
