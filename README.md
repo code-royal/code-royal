@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/prajwalrajbhandari10">
+  <a href="https://github.com/code-royal">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Prajwal" alt="Hello! I&#39;m Prajwal" />
   </a>
 </p>
@@ -45,14 +45,14 @@ I’m a Computing student and aspiring web developer who loves turning ideas int
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=prajwalrajbhandari10&layout=compact&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=code-royal&layout=compact&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalrajbhandari10&bg_color=00000000&color=4f46e5&line=4f46e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-royal&bg_color=00000000&color=4f46e5&line=4f46e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/prajwalrajbhandari10">prajwalrajbhandari10</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/code-royal">prajwalrajbhandari10</a></i></p>
